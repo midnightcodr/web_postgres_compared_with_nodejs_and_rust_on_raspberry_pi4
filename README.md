@@ -1,5 +1,5 @@
 ### Why
-I wanted to do a performance comparision between actix_web (rust) and hapijs (nodejs)
+I wanted to do a performance comparision between actix_web (rust) and hapijs (nodejs).
 
 
 ### Setup
@@ -17,4 +17,4 @@ See [results.md](results.md) for details.
 
 
 ## Postgres table strcture
-See [db.sql](db.sql)
+See [db.sql](db.sql).
